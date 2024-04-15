@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\OOPS\OOPS\bin\Debug\OOPS.exe.config
+D:\C#_Basic_Local\OOPS\OOPS\bin\Debug\OOPS.exe
+D:\C#_Basic_Local\OOPS\OOPS\bin\Debug\OOPS.pdb
+D:\C#_Basic_Local\OOPS\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\OOPS\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\OOPS\OOPS\obj\Debug\OOPS.exe
+D:\C#_Basic_Local\OOPS\OOPS\obj\Debug\OOPS.pdb

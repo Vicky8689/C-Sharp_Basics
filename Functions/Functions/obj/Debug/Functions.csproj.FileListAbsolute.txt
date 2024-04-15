@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Functions\Functions\bin\Debug\Functions.exe.config
+D:\C#_Basic_Local\Functions\Functions\bin\Debug\Functions.exe
+D:\C#_Basic_Local\Functions\Functions\bin\Debug\Functions.pdb
+D:\C#_Basic_Local\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Functions\Functions\obj\Debug\Functions.exe
+D:\C#_Basic_Local\Functions\Functions\obj\Debug\Functions.pdb

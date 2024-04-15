@@ -78,8 +78,10 @@ namespace Loops
             {
                 for(int j = 0; j < numbers.GetLength(1); j++)
                 {
-                    Console.WriteLine(numbers[i,j]);
+                    Console.Write(numbers[i,j]);
                 }
+                Console.WriteLine();
+
             }
 
         }

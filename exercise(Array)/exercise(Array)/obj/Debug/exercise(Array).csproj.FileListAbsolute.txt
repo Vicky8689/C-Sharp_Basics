@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\exercise(Array)\exercise(Array)\bin\Debug\exercise(Array).exe.config
+D:\C#_Basic_Local\exercise(Array)\exercise(Array)\bin\Debug\exercise(Array).exe
+D:\C#_Basic_Local\exercise(Array)\exercise(Array)\bin\Debug\exercise(Array).pdb
+D:\C#_Basic_Local\exercise(Array)\exercise(Array)\obj\Debug\exercise(Array).csproj.AssemblyReference.cache
+D:\C#_Basic_Local\exercise(Array)\exercise(Array)\obj\Debug\exercise(Array).csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\exercise(Array)\exercise(Array)\obj\Debug\exercise(Array).exe
+D:\C#_Basic_Local\exercise(Array)\exercise(Array)\obj\Debug\exercise(Array).pdb
