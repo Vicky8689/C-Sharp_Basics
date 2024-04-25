@@ -8,6 +8,7 @@ namespace Linkedlist
 {
     internal class Program
     {
+        //create node class
         public class Node
         {
            public int data;

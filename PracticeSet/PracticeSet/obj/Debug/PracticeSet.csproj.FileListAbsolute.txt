@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\PracticeSet\PracticeSet\bin\Debug\PracticeSet.exe.config
+D:\C#_Basic_Local\PracticeSet\PracticeSet\bin\Debug\PracticeSet.exe
+D:\C#_Basic_Local\PracticeSet\PracticeSet\bin\Debug\PracticeSet.pdb
+D:\C#_Basic_Local\PracticeSet\PracticeSet\obj\Debug\PracticeSet.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\PracticeSet\PracticeSet\obj\Debug\PracticeSet.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\PracticeSet\PracticeSet\obj\Debug\PracticeSet.exe
+D:\C#_Basic_Local\PracticeSet\PracticeSet\obj\Debug\PracticeSet.pdb

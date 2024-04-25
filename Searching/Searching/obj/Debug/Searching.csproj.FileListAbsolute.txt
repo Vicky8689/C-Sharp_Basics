@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Searching\Searching\bin\Debug\Searching.exe.config
+D:\C#_Basic_Local\Searching\Searching\bin\Debug\Searching.exe
+D:\C#_Basic_Local\Searching\Searching\bin\Debug\Searching.pdb
+D:\C#_Basic_Local\Searching\Searching\obj\Debug\Searching.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Searching\Searching\obj\Debug\Searching.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Searching\Searching\obj\Debug\Searching.exe
+D:\C#_Basic_Local\Searching\Searching\obj\Debug\Searching.pdb

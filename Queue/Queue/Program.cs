@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Queue
 {
@@ -100,6 +97,7 @@ namespace Queue
             q.Enqueue(9);
             q.Enqueue(10);
             q.Enqueue(11);
+            
             Console.WriteLine("peek elmenth is = "+ q.peek());
            Console.WriteLine("Dequed elment is = " + q.Dequque());
             Console.WriteLine("peek elmenth is = "+ q.peek());
