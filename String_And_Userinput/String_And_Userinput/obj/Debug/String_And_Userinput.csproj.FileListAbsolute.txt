@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\String_And_Userinput\String_And_Userinput\bin\Debug\String_And_Userinput.exe.config
+D:\C#_Basic_Local\String_And_Userinput\String_And_Userinput\bin\Debug\String_And_Userinput.exe
+D:\C#_Basic_Local\String_And_Userinput\String_And_Userinput\bin\Debug\String_And_Userinput.pdb
+D:\C#_Basic_Local\String_And_Userinput\String_And_Userinput\obj\Debug\String_And_Userinput.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\String_And_Userinput\String_And_Userinput\obj\Debug\String_And_Userinput.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\String_And_Userinput\String_And_Userinput\obj\Debug\String_And_Userinput.exe
+D:\C#_Basic_Local\String_And_Userinput\String_And_Userinput\obj\Debug\String_And_Userinput.pdb
