@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SortingAlgorithms
 {
-    internal class Program
+      internal class Program
     {
         //Insertion Sort
         /*
