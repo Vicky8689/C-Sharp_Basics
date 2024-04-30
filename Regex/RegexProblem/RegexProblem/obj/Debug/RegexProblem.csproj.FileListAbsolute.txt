@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Regex\RegexProblem\RegexProblem\bin\Debug\RegexProblem.exe.config
+D:\C#_Basic_Local\Regex\RegexProblem\RegexProblem\bin\Debug\RegexProblem.exe
+D:\C#_Basic_Local\Regex\RegexProblem\RegexProblem\bin\Debug\RegexProblem.pdb
+D:\C#_Basic_Local\Regex\RegexProblem\RegexProblem\obj\Debug\RegexProblem.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Regex\RegexProblem\RegexProblem\obj\Debug\RegexProblem.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Regex\RegexProblem\RegexProblem\obj\Debug\RegexProblem.exe
+D:\C#_Basic_Local\Regex\RegexProblem\RegexProblem\obj\Debug\RegexProblem.pdb
