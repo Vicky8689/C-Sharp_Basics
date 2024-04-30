@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\DelegetFunction\DelegetFunction\bin\Debug\DelegetFunction.exe.config
+D:\C#_Basic_Local\DelegetFunction\DelegetFunction\bin\Debug\DelegetFunction.exe
+D:\C#_Basic_Local\DelegetFunction\DelegetFunction\bin\Debug\DelegetFunction.pdb
+D:\C#_Basic_Local\DelegetFunction\DelegetFunction\obj\Debug\DelegetFunction.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\DelegetFunction\DelegetFunction\obj\Debug\DelegetFunction.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\DelegetFunction\DelegetFunction\obj\Debug\DelegetFunction.exe
+D:\C#_Basic_Local\DelegetFunction\DelegetFunction\obj\Debug\DelegetFunction.pdb

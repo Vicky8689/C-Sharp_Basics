@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Collections\Hashset\Hashset\bin\Debug\Hashset.exe.config
+D:\C#_Basic_Local\Collections\Hashset\Hashset\bin\Debug\Hashset.exe
+D:\C#_Basic_Local\Collections\Hashset\Hashset\bin\Debug\Hashset.pdb
+D:\C#_Basic_Local\Collections\Hashset\Hashset\obj\Debug\Hashset.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Collections\Hashset\Hashset\obj\Debug\Hashset.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Collections\Hashset\Hashset\obj\Debug\Hashset.exe
+D:\C#_Basic_Local\Collections\Hashset\Hashset\obj\Debug\Hashset.pdb

@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Collections\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe.config
+D:\C#_Basic_Local\Collections\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.exe
+D:\C#_Basic_Local\Collections\StackAndQueue\StackAndQueue\bin\Debug\StackAndQueue.pdb
+D:\C#_Basic_Local\Collections\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Collections\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Collections\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.exe
+D:\C#_Basic_Local\Collections\StackAndQueue\StackAndQueue\obj\Debug\StackAndQueue.pdb

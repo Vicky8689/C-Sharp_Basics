@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Collections\NunitTestingCalculator\NunitTestingCalculator\bin\Debug\NunitTestingCalculator.exe.config
+D:\C#_Basic_Local\Collections\NunitTestingCalculator\NunitTestingCalculator\bin\Debug\NunitTestingCalculator.exe
+D:\C#_Basic_Local\Collections\NunitTestingCalculator\NunitTestingCalculator\bin\Debug\NunitTestingCalculator.pdb
+D:\C#_Basic_Local\Collections\NunitTestingCalculator\NunitTestingCalculator\obj\Debug\NunitTestingCalculator.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Collections\NunitTestingCalculator\NunitTestingCalculator\obj\Debug\NunitTestingCalculator.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Collections\NunitTestingCalculator\NunitTestingCalculator\obj\Debug\NunitTestingCalculator.exe
+D:\C#_Basic_Local\Collections\NunitTestingCalculator\NunitTestingCalculator\obj\Debug\NunitTestingCalculator.pdb
