@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe.config
+D:\C#_Basic_Local\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe
+D:\C#_Basic_Local\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.pdb
+D:\C#_Basic_Local\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.exe
+D:\C#_Basic_Local\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.pdb

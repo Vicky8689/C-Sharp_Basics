@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\FileInputOutput\StreamWriterExample\bin\Debug\StreamWriterExample.exe.config
+D:\C#_Basic_Local\FileInputOutput\StreamWriterExample\bin\Debug\StreamWriterExample.exe
+D:\C#_Basic_Local\FileInputOutput\StreamWriterExample\bin\Debug\StreamWriterExample.pdb
+D:\C#_Basic_Local\FileInputOutput\StreamWriterExample\obj\Debug\StreamWriterExample.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\StreamWriterExample\obj\Debug\StreamWriterExample.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\StreamWriterExample\obj\Debug\StreamWriterExample.exe
+D:\C#_Basic_Local\FileInputOutput\StreamWriterExample\obj\Debug\StreamWriterExample.pdb

@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\FileInputOutput\DirectoryInfoClass\bin\Debug\DirectoryInfoClass.exe.config
+D:\C#_Basic_Local\FileInputOutput\DirectoryInfoClass\bin\Debug\DirectoryInfoClass.exe
+D:\C#_Basic_Local\FileInputOutput\DirectoryInfoClass\bin\Debug\DirectoryInfoClass.pdb
+D:\C#_Basic_Local\FileInputOutput\DirectoryInfoClass\obj\Debug\DirectoryInfoClass.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\DirectoryInfoClass\obj\Debug\DirectoryInfoClass.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\DirectoryInfoClass\obj\Debug\DirectoryInfoClass.exe
+D:\C#_Basic_Local\FileInputOutput\DirectoryInfoClass\obj\Debug\DirectoryInfoClass.pdb

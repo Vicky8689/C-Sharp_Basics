@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\FileInputOutput\StreamReaderExample\bin\Debug\StreamReaderExample.exe.config
+D:\C#_Basic_Local\FileInputOutput\StreamReaderExample\bin\Debug\StreamReaderExample.exe
+D:\C#_Basic_Local\FileInputOutput\StreamReaderExample\bin\Debug\StreamReaderExample.pdb
+D:\C#_Basic_Local\FileInputOutput\StreamReaderExample\obj\Debug\StreamReaderExample.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\StreamReaderExample\obj\Debug\StreamReaderExample.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\StreamReaderExample\obj\Debug\StreamReaderExample.exe
+D:\C#_Basic_Local\FileInputOutput\StreamReaderExample\obj\Debug\StreamReaderExample.pdb

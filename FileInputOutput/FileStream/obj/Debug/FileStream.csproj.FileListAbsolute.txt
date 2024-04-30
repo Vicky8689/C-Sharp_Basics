@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\FileInputOutput\FileStream\bin\Debug\FileStream.exe.config
+D:\C#_Basic_Local\FileInputOutput\FileStream\bin\Debug\FileStream.exe
+D:\C#_Basic_Local\FileInputOutput\FileStream\bin\Debug\FileStream.pdb
+D:\C#_Basic_Local\FileInputOutput\FileStream\obj\Debug\FileStream.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\FileStream\obj\Debug\FileStream.exe
+D:\C#_Basic_Local\FileInputOutput\FileStream\obj\Debug\FileStream.pdb

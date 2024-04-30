@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\FileInputOutput\StringWriterReaderExamples\bin\Debug\StringWriterReaderExamples.exe.config
+D:\C#_Basic_Local\FileInputOutput\StringWriterReaderExamples\bin\Debug\StringWriterReaderExamples.exe
+D:\C#_Basic_Local\FileInputOutput\StringWriterReaderExamples\bin\Debug\StringWriterReaderExamples.pdb
+D:\C#_Basic_Local\FileInputOutput\StringWriterReaderExamples\obj\Debug\StringWriterReaderExamples.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\StringWriterReaderExamples\obj\Debug\StringWriterReaderExamples.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\StringWriterReaderExamples\obj\Debug\StringWriterReaderExamples.exe
+D:\C#_Basic_Local\FileInputOutput\StringWriterReaderExamples\obj\Debug\StringWriterReaderExamples.pdb

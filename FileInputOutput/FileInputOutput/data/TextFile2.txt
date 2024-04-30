@@ -1,0 +1,2 @@
+﻿This is dummy text
+welcome to file handaling
