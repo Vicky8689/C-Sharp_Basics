@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\OOP\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+D:\C#_Basic_Local\OOP\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+D:\C#_Basic_Local\OOP\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+D:\C#_Basic_Local\OOP\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\OOP\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\OOP\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+D:\C#_Basic_Local\OOP\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

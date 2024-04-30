@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesModifire", "AccesModifire\AccesModifire.csproj", "{AFBD77A6-5CF0-4837-9011-D8F618BC4889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBD77A6-5CF0-4837-9011-D8F618BC4889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBD77A6-5CF0-4837-9011-D8F618BC4889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBD77A6-5CF0-4837-9011-D8F618BC4889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBD77A6-5CF0-4837-9011-D8F618BC4889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9D7A2D-82A7-450C-B5DF-8D0B1ACB616A}
+	EndGlobalSection
+EndGlobal

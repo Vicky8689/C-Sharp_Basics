@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_Basic_Local\\OOP\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D0876E-6FE0-4221-A927-96D172BE7687}|Encapsulation\\Encapsulation.csproj|d:\\c#_basic_local\\oop\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D0876E-6FE0-4221-A927-96D172BE7687}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_Basic_Local\\OOP\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "D:\\C#_Basic_Local\\OOP\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:41:04.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
