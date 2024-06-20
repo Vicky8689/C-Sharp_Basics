@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Deginepatterns\Deginepatterns\bin\Debug\Deginepatterns.exe.config
+D:\C#_Basic_Local\Deginepatterns\Deginepatterns\bin\Debug\Deginepatterns.exe
+D:\C#_Basic_Local\Deginepatterns\Deginepatterns\bin\Debug\Deginepatterns.pdb
+D:\C#_Basic_Local\Deginepatterns\Deginepatterns\obj\Debug\Deginepatterns.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Deginepatterns\Deginepatterns\obj\Debug\Deginepatterns.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Deginepatterns\Deginepatterns\obj\Debug\Deginepatterns.exe
+D:\C#_Basic_Local\Deginepatterns\Deginepatterns\obj\Debug\Deginepatterns.pdb

@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\FileInputOutput\SerializationDemo\bin\Debug\SerializationDemo.exe.config
+D:\C#_Basic_Local\FileInputOutput\SerializationDemo\bin\Debug\SerializationDemo.exe
+D:\C#_Basic_Local\FileInputOutput\SerializationDemo\bin\Debug\SerializationDemo.pdb
+D:\C#_Basic_Local\FileInputOutput\SerializationDemo\obj\Debug\SerializationDemo.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\SerializationDemo\obj\Debug\SerializationDemo.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\SerializationDemo\obj\Debug\SerializationDemo.exe
+D:\C#_Basic_Local\FileInputOutput\SerializationDemo\obj\Debug\SerializationDemo.pdb

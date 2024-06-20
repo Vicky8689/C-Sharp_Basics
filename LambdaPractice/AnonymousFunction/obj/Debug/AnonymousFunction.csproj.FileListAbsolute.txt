@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\LambdaPractice\AnonymousFunction\bin\Debug\AnonymousFunction.exe.config
+D:\C#_Basic_Local\LambdaPractice\AnonymousFunction\bin\Debug\AnonymousFunction.exe
+D:\C#_Basic_Local\LambdaPractice\AnonymousFunction\bin\Debug\AnonymousFunction.pdb
+D:\C#_Basic_Local\LambdaPractice\AnonymousFunction\obj\Debug\AnonymousFunction.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\LambdaPractice\AnonymousFunction\obj\Debug\AnonymousFunction.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\LambdaPractice\AnonymousFunction\obj\Debug\AnonymousFunction.exe
+D:\C#_Basic_Local\LambdaPractice\AnonymousFunction\obj\Debug\AnonymousFunction.pdb

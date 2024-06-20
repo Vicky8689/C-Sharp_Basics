@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Deginepatterns\DecoretorDegine\bin\Debug\DecoretorDegine.exe.config
+D:\C#_Basic_Local\Deginepatterns\DecoretorDegine\bin\Debug\DecoretorDegine.exe
+D:\C#_Basic_Local\Deginepatterns\DecoretorDegine\bin\Debug\DecoretorDegine.pdb
+D:\C#_Basic_Local\Deginepatterns\DecoretorDegine\obj\Debug\DecoretorDegine.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Deginepatterns\DecoretorDegine\obj\Debug\DecoretorDegine.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Deginepatterns\DecoretorDegine\obj\Debug\DecoretorDegine.exe
+D:\C#_Basic_Local\Deginepatterns\DecoretorDegine\obj\Debug\DecoretorDegine.pdb

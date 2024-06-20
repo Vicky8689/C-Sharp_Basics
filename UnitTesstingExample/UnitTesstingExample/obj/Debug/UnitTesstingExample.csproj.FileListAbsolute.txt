@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\UnitTesstingExample\UnitTesstingExample\bin\Debug\UnitTesstingExample.exe.config
+D:\C#_Basic_Local\UnitTesstingExample\UnitTesstingExample\bin\Debug\UnitTesstingExample.exe
+D:\C#_Basic_Local\UnitTesstingExample\UnitTesstingExample\bin\Debug\UnitTesstingExample.pdb
+D:\C#_Basic_Local\UnitTesstingExample\UnitTesstingExample\obj\Debug\UnitTesstingExample.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\UnitTesstingExample\UnitTesstingExample\obj\Debug\UnitTesstingExample.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\UnitTesstingExample\UnitTesstingExample\obj\Debug\UnitTesstingExample.exe
+D:\C#_Basic_Local\UnitTesstingExample\UnitTesstingExample\obj\Debug\UnitTesstingExample.pdb

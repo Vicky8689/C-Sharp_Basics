@@ -1,0 +1,10 @@
+D:\C#_Basic_Local\FileInputOutput\JsonExample\bin\Debug\JsonExample.exe.config
+D:\C#_Basic_Local\FileInputOutput\JsonExample\bin\Debug\JsonExample.exe
+D:\C#_Basic_Local\FileInputOutput\JsonExample\bin\Debug\JsonExample.pdb
+D:\C#_Basic_Local\FileInputOutput\JsonExample\obj\Debug\JsonExample.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\FileInputOutput\JsonExample\obj\Debug\JsonExample.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\FileInputOutput\JsonExample\obj\Debug\JsonExample.exe
+D:\C#_Basic_Local\FileInputOutput\JsonExample\obj\Debug\JsonExample.pdb
+D:\C#_Basic_Local\FileInputOutput\JsonExample\bin\Debug\Newtonsoft.Json.dll
+D:\C#_Basic_Local\FileInputOutput\JsonExample\bin\Debug\Newtonsoft.Json.xml
+D:\C#_Basic_Local\FileInputOutput\JsonExample\obj\Debug\JsonExam.8DACB2F8.Up2Date

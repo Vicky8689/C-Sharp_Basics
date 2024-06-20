@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\Deginepatterns\TDD\bin\Debug\TDD.exe.config
+D:\C#_Basic_Local\Deginepatterns\TDD\bin\Debug\TDD.exe
+D:\C#_Basic_Local\Deginepatterns\TDD\bin\Debug\TDD.pdb
+D:\C#_Basic_Local\Deginepatterns\TDD\obj\Debug\TDD.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\Deginepatterns\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\Deginepatterns\TDD\obj\Debug\TDD.exe
+D:\C#_Basic_Local\Deginepatterns\TDD\obj\Debug\TDD.pdb

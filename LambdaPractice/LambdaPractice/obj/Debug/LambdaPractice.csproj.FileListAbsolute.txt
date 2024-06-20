@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe.config
+D:\C#_Basic_Local\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.exe
+D:\C#_Basic_Local\LambdaPractice\LambdaPractice\bin\Debug\LambdaPractice.pdb
+D:\C#_Basic_Local\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.exe
+D:\C#_Basic_Local\LambdaPractice\LambdaPractice\obj\Debug\LambdaPractice.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_Basic_Local\\UnitTesstingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C469087-714E-4E75-8600-90A2EE7A446D}|UnitTesstingExample\\UnitTesstingExample.csproj|d:\\c#_basic_local\\unittesstingexample\\unittesstingexample\\opperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C469087-714E-4E75-8600-90A2EE7A446D}|UnitTesstingExample\\UnitTesstingExample.csproj|solutionrelative:unittesstingexample\\opperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C469087-714E-4E75-8600-90A2EE7A446D}|UnitTesstingExample\\UnitTesstingExample.csproj|d:\\c#_basic_local\\unittesstingexample\\unittesstingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C469087-714E-4E75-8600-90A2EE7A446D}|UnitTesstingExample\\UnitTesstingExample.csproj|solutionrelative:unittesstingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Opperations.cs",
+              "DocumentMoniker": "D:\\C#_Basic_Local\\UnitTesstingExample\\UnitTesstingExample\\Opperations.cs",
+              "RelativeDocumentMoniker": "UnitTesstingExample\\Opperations.cs",
+              "ToolTip": "D:\\C#_Basic_Local\\UnitTesstingExample\\UnitTesstingExample\\Opperations.cs*",
+              "RelativeToolTip": "UnitTesstingExample\\Opperations.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:25:15.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_Basic_Local\\UnitTesstingExample\\UnitTesstingExample\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTesstingExample\\Program.cs",
+              "ToolTip": "D:\\C#_Basic_Local\\UnitTesstingExample\\UnitTesstingExample\\Program.cs",
+              "RelativeToolTip": "UnitTesstingExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:22:05.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

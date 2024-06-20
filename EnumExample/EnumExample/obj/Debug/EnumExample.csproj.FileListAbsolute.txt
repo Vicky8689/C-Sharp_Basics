@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\EnumExample\EnumExample\bin\Debug\EnumExample.exe.config
+D:\C#_Basic_Local\EnumExample\EnumExample\bin\Debug\EnumExample.exe
+D:\C#_Basic_Local\EnumExample\EnumExample\bin\Debug\EnumExample.pdb
+D:\C#_Basic_Local\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\EnumExample\EnumExample\obj\Debug\EnumExample.exe
+D:\C#_Basic_Local\EnumExample\EnumExample\obj\Debug\EnumExample.pdb

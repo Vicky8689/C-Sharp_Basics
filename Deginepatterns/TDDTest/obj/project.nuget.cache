@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqCABr/Gt7xvDr+UoZ9cIy2HIE+pHoXOf1ue2oFWgGxh78iDaFHj7kU4I9eYKijSAjyHW5xg+0k+24yyICZXdw==",
+  "success": true,
+  "projectFilePath": "D:\\C#_Basic_Local\\Deginepatterns\\TDDTest\\TDDTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niraj\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Niraj\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Niraj\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Niraj\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

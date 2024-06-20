@@ -3,19 +3,8 @@
   "WorkspaceRootPath": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_Basic_Local\\FileInputOutput\\FileStream\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC44502-4E1E-4226-8AF1-8EEE79A0C7AC}|BasicMathTest\\BasicMathTest.csproj|d:\\c#_basic_local\\collections\\nunittestingcalculator\\basicmathtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC44502-4E1E-4226-8AF1-8EEE79A0C7AC}|BasicMathTest\\BasicMathTest.csproj|solutionrelative:basicmathtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F46543-DE16-45E4-89C0-6DE5DAD835A7}|NunitTestingCalculator\\NunitTestingCalculator.csproj|d:\\c#_basic_local\\collections\\nunittestingcalculator\\nunittestingcalculator\\calculatoroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F46543-DE16-45E4-89C0-6DE5DAD835A7}|NunitTestingCalculator\\NunitTestingCalculator.csproj|solutionrelative:nunittestingcalculator\\calculatoroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14F46543-DE16-45E4-89C0-6DE5DAD835A7}|NunitTestingCalculator\\NunitTestingCalculator.csproj|D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\nunittestingcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F46543-DE16-45E4-89C0-6DE5DAD835A7}|NunitTestingCalculator\\NunitTestingCalculator.csproj|solutionrelative:nunittestingcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A75D4E6-2339-4D77-96AC-6C31B43ECBC5}|TestProject1\\TestProject1.csproj|d:\\c#_basic_local\\collections\\nunittestingcalculator\\testproject1\\testproject1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9A75D4E6-2339-4D77-96AC-6C31B43ECBC5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,53 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\FileStream\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\FileInputOutput\\FileStream\\Program.cs",
-              "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\FileStream\\Program.cs",
-              "RelativeToolTip": "..\\..\\FileInputOutput\\FileStream\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T06:21:55.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\BasicMathTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "BasicMathTest\\UnitTest1.cs",
-              "ToolTip": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\BasicMathTest\\UnitTest1.cs",
-              "RelativeToolTip": "BasicMathTest\\UnitTest1.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:33:19.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculatorOperation.cs",
-              "DocumentMoniker": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\NunitTestingCalculator\\CalculatorOperation.cs",
-              "RelativeDocumentMoniker": "NunitTestingCalculator\\CalculatorOperation.cs",
-              "ToolTip": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\NunitTestingCalculator\\CalculatorOperation.cs",
-              "RelativeToolTip": "NunitTestingCalculator\\CalculatorOperation.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T06:22:58.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\NunitTestingCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "NunitTestingCalculator\\Program.cs",
-              "ToolTip": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\NunitTestingCalculator\\Program.cs",
-              "RelativeToolTip": "NunitTestingCalculator\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T06:21:13.906Z",
+              "Title": "TestProject1",
+              "DocumentMoniker": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "D:\\C#_Basic_Local\\Collections\\NunitTestingCalculator\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T10:17:29.148Z",
               "EditorCaption": ""
             }
           ]

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\C#_Basic_Local\\FileInputOutput\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|D:\\C#_Basic_Local\\FileInputOutput\\fileinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|solutionrelative:fileinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17BC6480-42C6-4660-834B-6A45CAE4E63E}|SerializationDemo\\SerializationDemo.csproj|d:\\c#_basic_local\\fileinputoutput\\serializationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BC6480-42C6-4660-834B-6A45CAE4E63E}|SerializationDemo\\SerializationDemo.csproj|solutionrelative:serializationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|D:\\C#_Basic_Local\\FileInputOutput\\fileinputoutput\\data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|solutionrelative:fileinputoutput\\data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{17BC6480-42C6-4660-834B-6A45CAE4E63E}|SerializationDemo\\SerializationDemo.csproj|d:\\c#_basic_local\\fileinputoutput\\serializationdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BC6480-42C6-4660-834B-6A45CAE4E63E}|SerializationDemo\\SerializationDemo.csproj|solutionrelative:serializationdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87B65E20-5340-491D-9871-647AA3F999BE}|FileStream\\FileStream.csproj|D:\\C#_Basic_Local\\FileInputOutput\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87B65E20-5340-491D-9871-647AA3F999BE}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE2B7276-607D-4A7D-B94D-9C3A0A38909F}|JsonExample\\JsonExample.csproj|d:\\c#_basic_local\\fileinputoutput\\jsonexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2B7276-607D-4A7D-B94D-9C3A0A38909F}|JsonExample\\JsonExample.csproj|solutionrelative:jsonexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7683632-12F0-4C93-8456-B276B6603AB1}|StreamWriterExample\\StreamWriterExample.csproj|D:\\C#_Basic_Local\\FileInputOutput\\streamwriterexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,20 @@
       "RelativeMoniker": "D:0:0:{818410B5-2FE5-4644-AB85-4711593C006D}|StreamReaderExample\\StreamReaderExample.csproj|solutionrelative:streamreaderexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01999C8-AE55-4B70-9F00-2C9B88476F10}|StringWriterReaderExamples\\StringWriterReaderExamples.csproj|d:\\c#_basic_local\\fileinputoutput\\stringwriterreaderexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E01999C8-AE55-4B70-9F00-2C9B88476F10}|StringWriterReaderExamples\\StringWriterReaderExamples.csproj|D:\\C#_Basic_Local\\FileInputOutput\\stringwriterreaderexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01999C8-AE55-4B70-9F00-2C9B88476F10}|StringWriterReaderExamples\\StringWriterReaderExamples.csproj|solutionrelative:stringwriterreaderexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A044F6-A314-4C0B-A097-A314C4D85958}|DirectoryInfoClass\\DirectoryInfoClass.csproj|D:\\C#_Basic_Local\\FileInputOutput\\directoryinfoclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A044F6-A314-4C0B-A097-A314C4D85958}|DirectoryInfoClass\\DirectoryInfoClass.csproj|solutionrelative:directoryinfoclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|d:\\c#_basic_local\\fileinputoutput\\fileinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|solutionrelative:fileinputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|D:\\C#_Basic_Local\\FileInputOutput\\fileinputoutput\\data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78D688D2-4C78-41CD-A2D7-907624AD1806}|FileInputOutput\\FileInputOutput.csproj|solutionrelative:fileinputoutput\\data\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B65E20-5340-491D-9871-647AA3F999BE}|FileStream\\FileStream.csproj|D:\\C#_Basic_Local\\FileInputOutput\\filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B65E20-5340-491D-9871-647AA3F999BE}|FileStream\\FileStream.csproj|solutionrelative:filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +46,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\DirectoryInfoClass\\Program.cs",
-              "RelativeDocumentMoniker": "DirectoryInfoClass\\Program.cs",
-              "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\DirectoryInfoClass\\Program.cs",
-              "RelativeToolTip": "DirectoryInfoClass\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAANAAAA",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\SerializationDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "SerializationDemo\\Employee.cs",
+              "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\SerializationDemo\\Employee.cs",
+              "RelativeToolTip": "SerializationDemo\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T10:08:51.388Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-03T11:57:32.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\SerializationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationDemo\\Program.cs",
+              "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\SerializationDemo\\Program.cs",
+              "RelativeToolTip": "SerializationDemo\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:56:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\JsonExample\\Program.cs",
+              "RelativeDocumentMoniker": "JsonExample\\Program.cs",
+              "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\JsonExample\\Program.cs",
+              "RelativeToolTip": "JsonExample\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:26:33.854Z",
               "EditorCaption": ""
             },
             {
@@ -62,7 +95,7 @@
               "RelativeDocumentMoniker": "StringWriterReaderExamples\\Program.cs",
               "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\StringWriterReaderExamples\\Program.cs",
               "RelativeToolTip": "StringWriterReaderExamples\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBUAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T08:31:43.802Z",
               "EditorCaption": ""
@@ -75,7 +108,7 @@
               "RelativeDocumentMoniker": "StreamReaderExample\\Program.cs",
               "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\StreamReaderExample\\Program.cs",
               "RelativeToolTip": "StreamReaderExample\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAAUAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T07:52:36.158Z",
               "EditorCaption": ""
@@ -88,14 +121,14 @@
               "RelativeDocumentMoniker": "StreamWriterExample\\Program.cs",
               "ToolTip": "D:\\C#_Basic_Local\\FileInputOutput\\StreamWriterExample\\Program.cs",
               "RelativeToolTip": "StreamWriterExample\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T05:04:49.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\FileStream\\Program.cs",
               "RelativeDocumentMoniker": "FileStream\\Program.cs",
@@ -108,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "TextFile1.txt",
               "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\FileInputOutput\\data\\TextFile1.txt",
               "RelativeDocumentMoniker": "FileInputOutput\\data\\TextFile1.txt",
@@ -121,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#_Basic_Local\\FileInputOutput\\FileInputOutput\\Program.cs",
               "RelativeDocumentMoniker": "FileInputOutput\\Program.cs",

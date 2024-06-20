@@ -1,0 +1,7 @@
+D:\C#_Basic_Local\TupleExample\TupleExample\bin\Debug\TupleExample.exe.config
+D:\C#_Basic_Local\TupleExample\TupleExample\bin\Debug\TupleExample.exe
+D:\C#_Basic_Local\TupleExample\TupleExample\bin\Debug\TupleExample.pdb
+D:\C#_Basic_Local\TupleExample\TupleExample\obj\Debug\TupleExample.csproj.AssemblyReference.cache
+D:\C#_Basic_Local\TupleExample\TupleExample\obj\Debug\TupleExample.csproj.CoreCompileInputs.cache
+D:\C#_Basic_Local\TupleExample\TupleExample\obj\Debug\TupleExample.exe
+D:\C#_Basic_Local\TupleExample\TupleExample\obj\Debug\TupleExample.pdb
